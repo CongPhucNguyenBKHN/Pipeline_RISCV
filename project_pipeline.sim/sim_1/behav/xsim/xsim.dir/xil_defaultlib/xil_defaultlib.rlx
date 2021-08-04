@@ -1,0 +1,25 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sim_1/new/test.v,1626082703,verilog,,,,test,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/DMEM.v,1625210583,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/EX_MEM_flipflop.v,,DMEM,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/EX_MEM_flipflop.v,1626764477,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/ID_EX_flipflop.v,,EX_MEM_flipflop,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/ID_EX_flipflop.v,1627636285,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/IF_ID_flipflop.v,,ID_EX_flipflop,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/IF_ID_flipflop.v,1626764476,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/IMEM.v,,IF_ID_flipflop,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/IMEM.v,1625211211,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/MEM_WB_flipflop.v,,IMEM,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/MEM_WB_flipflop.v,1626765540,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/READ_IMEM.v,,MEM_WB_flipflop,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/READ_IMEM.v,1626426973,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/alu.v,,READ_IMEM,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/alu.v,1625210549,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/branch_comp.v,,alu,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/branch_comp.v,1625210539,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/control.v,,branch_comp,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/control.v,1625210621,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/imm_gen.v,,control,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/imm_gen.v,1625210509,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/muxA.v,,imm_gen,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/muxA.v,1625210502,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/muxB.v,,muxA,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/muxB.v,1625210573,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/muxW.v,,muxB,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/muxW.v,1625210605,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/pc.v,,muxW,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/pc.v,1626429061,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/pc_add4.v,,pc,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/pc_add4.v,1626427735,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/pc_mux.v,,pc_add4,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/pc_mux.v,1625210594,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/regs.v,,pc_mux,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/regs.v,1626773165,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/top.v,,regs,,,,,,,,
+C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sources_1/new/top.v,1626768434,verilog,,C:/Users/nguye/Downloads/project_pipeline/project_pipeline.srcs/sim_1/new/test.v,,top,,,,,,,,

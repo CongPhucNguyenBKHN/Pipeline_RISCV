@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_pipeline.srcs/sources_1/new/DMEM.v" \
+"../../../../project_pipeline.srcs/sources_1/new/EX_MEM_flipflop.v" \
+"../../../../project_pipeline.srcs/sources_1/new/ID_EX_flipflop.v" \
+"../../../../project_pipeline.srcs/sources_1/new/IF_ID_flipflop.v" \
+"../../../../project_pipeline.srcs/sources_1/new/IMEM.v" \
+"../../../../project_pipeline.srcs/sources_1/new/MEM_WB_flipflop.v" \
+"../../../../project_pipeline.srcs/sources_1/new/READ_IMEM.v" \
+"../../../../project_pipeline.srcs/sources_1/new/alu.v" \
+"../../../../project_pipeline.srcs/sources_1/new/branch_comp.v" \
+"../../../../project_pipeline.srcs/sources_1/new/control.v" \
+"../../../../project_pipeline.srcs/sources_1/new/imm_gen.v" \
+"../../../../project_pipeline.srcs/sources_1/new/muxA.v" \
+"../../../../project_pipeline.srcs/sources_1/new/muxB.v" \
+"../../../../project_pipeline.srcs/sources_1/new/muxW.v" \
+"../../../../project_pipeline.srcs/sources_1/new/pc.v" \
+"../../../../project_pipeline.srcs/sources_1/new/pc_add4.v" \
+"../../../../project_pipeline.srcs/sources_1/new/pc_mux.v" \
+"../../../../project_pipeline.srcs/sources_1/new/regs.v" \
+"../../../../project_pipeline.srcs/sources_1/new/top.v" \
+"../../../../project_pipeline.srcs/sim_1/new/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
